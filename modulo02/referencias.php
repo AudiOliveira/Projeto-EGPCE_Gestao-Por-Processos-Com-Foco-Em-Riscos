@@ -58,7 +58,7 @@
         <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
-        <span class="txt">Apresentação</i></span>
+        <span class="txt" style="font-size: 18px;">Apresentação</i></span>
         </a>
     </li>
 
@@ -67,7 +67,7 @@
         <li class="menu">
             <a data-valor="#">
             <span class="icon space"><i class="bi bi-1-circle"></i></span>
-            <span class="txt">Gestão por Processos: Contextualizaçãos</span>
+            <span class="txt" style="font-size: 18px;">Gestão por Processos: Contextualizaçãos</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
             </a>
         </li>
@@ -84,7 +84,7 @@
         <li class="menu">
             <a data-valor="#">
             <span class="icon space"><i class="bi bi-2-circle"></i></span>
-            <span class="txt">Gestão de Processos</span>
+            <span class="txt" style="font-size: 18px;">Gestão de Processos</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
             </a>
         </li>
@@ -95,12 +95,31 @@
             <i class="bi bi-journals circulo"></i>02 Inicio</a>
         <a href="./topico 02/topico 02.php#subtopico2.2">
             <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02/topico 02.php#subtopico2.3">
+            <i class="bi bi-journals circulo"></i>02.3 Como é gerenciar riscos?</a>
     </div>
+
+    <!-- Tópico -->
+    <li class="menu">
+        <a href="./topico 03/topico 03.php"">
+        <span class="icon "><i class="bi bi-3-circle"></i>
+        </span>
+        <span class="txt" style="font-size: 18px;">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
+        </a>
+    </li>
+    <!-- Tópico -->
+    <li class="menu">
+        <a href="./topico 04/topico 04.php"">
+        <span class="icon "><i class="bi bi-4-circle"></i>
+        </span>
+        <span class="txt" style="font-size: 18px;">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
+        </a>
+    </li>
 
     <li class="menu">
         <a href="./referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
-            <span class="txt">Referências</span>
+            <span class="txt" style="font-size: 18px;">Referências</span>
         </a>
     </li>
 </ul></nav><nav class="navbar shadow-sm" id="navmenu">
@@ -158,7 +177,26 @@
             <i class="bi bi-journals circulo"></i>02 Inicio</a>
         <a href="./topico 02/topico 02.php#subtopico2.2">
             <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02/topico 02.php#subtopico2.3">
+            <i class="bi bi-journals circulo"></i>02.3 Como é gerenciar riscos?</a>
     </div>
+
+    <!-- Tópico -->
+    <li class="menu">
+        <a href="./topico 03/topico 03.php"">
+        <span class="icon "><i class="bi bi-3-circle"></i>
+        </span>
+        <span class="txt">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
+        </a>
+    </li>
+    <!-- Tópico -->
+    <li class="menu">
+        <a href="./topico 04/topico 04.php"">
+        <span class="icon "><i class="bi bi-4-circle"></i>
+        </span>
+        <span class="txt">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
+        </a>
+    </li>
 
     <li class="menu">
         <a href="./referencias.php">
@@ -169,6 +207,7 @@
 </ul>                </nav>
             </div>
         </div>
+
 
         <a class="navbar-brand"></a>
 
@@ -192,25 +231,64 @@
                     
                     <div class="col-md-10 col-sm-8 container-fluid">
                         <!-- REFERÊNCIAS  -->
-                        <h2 class="Titulo wow fadeIn"><span class="iconTitulo"><i
+                        <h2 class="Titulo"><span class="iconTitulo"><i
                                     class="bi bi-book-half"></i></span>Referências</h2><br>
-                            <p class="Texto  wow fadeIn"> <i class="bi bi-book me-2"></i>
-                            ABNT – ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. <strong>Sistemas de gestão da qualidade:</strong> fundamentos e vocabulário. NBR ISO 9000. Rio de Janeiro, 2000.
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            AVALOS, José Miguel Aguilera. <strong>Auditoria e Gestão de Riscos</strong>. São Paulo: Saraiva, 2009.
                             </p>
-                            <p class="Texto  wow fadeIn"> <i class="bi bi-book me-2"></i>
-                            BPM CBOK – <strong>Guia para o Gerenciamento de Processos de Negócio.</strong> Corpo Comum do Conhecimento – ABPMP BPM CBOK V3.0, Association of Business Process Management Professionals, 2013.
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            BRAGA. Marcus Vinicius de Azevendo. <strong>Gestão de Riscos no Setor Público:</strong> ampliando horizontes. Disponível em <a class="mouseover" target="_blank" href="http://www.administradores.com.br/artigos/negocios/gestao-dos-riscos-no-setor-publico-ampliando-os-horizontes/67507/">http://www.administradores.com.br/artigos/negocios/gestao-dos-riscos-no-setor-publico-ampliando-os-horizontes/67507/</a>. Acesso em 09/09/2017.
                             </p>
-                            <p class="Texto  wow fadeIn"> <i class="bi bi-book me-2"></i>
-                            CAMPOS, Vicente Falconi. <strong>Gerenciamento da rotina do trabalho do dia-a-dia.</strong> 8. ed. Nova Lima/MG: INDG, 2004.
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            BRITO, Claudenir; FONTENELLE, Rodrigo. <strong>Auditoria privada e governamental</strong>: teoria de forma objetiva e questões comentadas. Rio de Janeiro: Elsevier, 2013.
                             </p>
-                            <p class="Texto  wow fadeIn"> <i class="bi bi-book me-2"></i>
-                            FERREIRA, André Ribeiro. Gestão de processos. Módulo 3. – Brasília: ENAP / DDG, 2013. 179 p. <strong>Apostila do Programa de Desenvolvimento de Gerentes Operacionais – DGO.</strong> Revisão e adaptação – Coordenação-Geral de Projetos de Capacitação/ DDG / ENAP.
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            CGE/CE. <strong>Auditoria Governamental de Processos com Foco em Riscos</strong>, Ernest & Young Terco, 2012. 258p.
                             </p>
-                            <p class="Texto  wow fadeIn"> <i class="bi bi-book me-2"></i>
-                            SANTOS, Ricardo; ARRAES, Vanessa; MENDONÇA, Aline. Redesenho de processos: a experiência do estado do Ceará em prover melhoria na gestão. <strong>Anais do VI Congresso CONSAD de Gestão Pública</strong>, Brasília: DF, 2013.
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            CGE/CE. Disponível em <a class="mouseover" target="_blank" href="http://www.cge.ce.gov.br/index.php/eventos-institucionais/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade">http://www.cge.ce.gov.br/index.php/eventos-institucionais/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade</a>. Acesso em 09 set. 2017.
                             </p>
-                            <p class="Texto  wow fadeIn"> <i class="bi bi-book me-2"></i>
-                            BRASIL. Ministério do Planejamento, Orçamento e Gestão. <strong>Padrão de Trabalho de Modelagem de Processos: Escritório de Processos.</strong> 2007.
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            CGU. Disponível em <a class="mouseover" target="_blank" href="http://www.cgu.gov.br/sobre/legislacao/arquivos/instrucoes-normativas/in_cgu_mpog_01_2016.pdf">http://www.cgu.gov.br/sobre/legislacao/arquivos/instrucoes-normativas/in_cgu_mpog_01_2016.pdf</a>. Acesso em 15 ago. 2017.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            CHAVES, Renato Santos. <strong>Auditoria e Controladoria no Setor Público</strong> – Fortalecimento dos Controles Internos com Jurisprudência do TCU. 2 Ed. Curitiba: Juruá, 2011.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            COSO, <strong>Gerenciamento de Riscos na Empresa</strong> – Estrutura Integrada: Sumário Executivo e Estrutura (Versão em português), 2 vol. Jersey City: AICPA, 2007.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            DAMODARAN, Aswath. <strong>Gestão estratégica do risco</strong> – uma referência para a tomada de riscos empresariais. São Paulo: Bookman, 2009.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            DIAS, Sergio Vidal dos Santos. <strong>Auditoria de Processos Organizacionais</strong>: Teoria, Finalidade, Metodologia de Trabalho e Resultados Esperados - 3. ed – São Paulo: Atl-- ITEM 12
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            ENAP – Fundação Escola Nacional de Administração Pública. <strong>Guia sobre a gestão de riscos no serviço público.</strong> Stephen Hill. <em>In:</em> ENAP Cadernos 30. Brasília: En-- ITEM 13
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            HM Treasury. <strong><em>The Orange Book</strong> - Management of Risk - Principles and Concepts</em>, 2004. 52p. Disponível em: <a class="mouseover" target="_blank" href="https://goo.gl/wSqdZ6">https://goo.gl/wSqdZ6</a>
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            <em>House of Commons Committee of Public Accounts, <strong>Managing risks to improve public services</strong>.</em> 2005. 40p.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            IFAC. <em>International Federation of Accountants. Study 13. <strong>Corporate governance in the public sector</strong>: a governing body perspective.</em> 2001.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            INTOSAI, INTOSAI GOV 9100 - <em>The International Standards of Supreme Audit Institutions, ISSAI, are issued by the International Organization of Supreme Audit Institutions</em>, 2007.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            PRIBERAM. Disponível em <a class="mouseover" target="_blank" href="https://www.priberam.pt/dlpo/evento">https://www.priberam.pt/dlpo/evento</a>. Acesso em 08 ago. 2017.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            QSP. Disponível em <a class="mouseover" target="_blank" href="http://www.qsp.org.br/pdf/implemente_abr.pdf">http://www.qsp.org.br/pdf/implemente_abr.pdf</a>. Acesso em 09 set. 2017.
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            TCU, <strong>Auditoria Governamental</strong>, 2011. 356p. Disponível em <a class="mouseover" target="_blank" href="http://portal2.tcu.gov.br/portal/pls/portal/docs/2499144.ZIP">http://portal2.tcu.gov.br/portal/pls/portal/docs/2499144.ZIP</a> . Acesso em 20 jul. 2013
+                            </p>
+                            <p class="Texto"> <i class="bi bi-book me-2"></i>
+                            <em>Victorian Government</em> (Australia) – <em>Department of Treasury and Finance, <strong>Victorian Government Risk Management Framework</strong></em>, 2011. 38p Disponível em <a class="mouseover" target="_blank" href="https://goo.gl/1ZZ1e6">https://goo.gl/1ZZ1e6</a> Acesso e 20 jul. 2013.
                             </p>
                             <br>
                             <!-- FIM DAS REFERENCIAS  -->
@@ -218,7 +296,7 @@
                         <div class="border border-success m-4 p-4 text-rounded rounded rounded-lg wow animate__fadeInLeftBig"
                             data-wow-delay="0.3s">
                             <p><strong>Pronto,</strong> Nome_Completo <strong>agora você já pode fazer a avaliação do curso</strong>
-                            Gestão por Processos com Foco em Riscos <strong>Módulo 01 abaixo, Boa Sorte!</strong>
+                            Gestão por Processos com Foco em Riscos <strong>Módulo 02 abaixo, Boa Sorte!</strong>
 </p>
                         </div>
 
@@ -226,7 +304,7 @@
 
                             <!-- BOTÕES DE NAVEGAÇÃO -->
                             <div class="text-center">
-                                <a href="./topico 02/topico 02.php" class="btn btn-outline-success" role="button" aria-pressed="true">
+                                <a href="./topico 04/topico 04.php" class="btn btn-outline-success" role="button" aria-pressed="true">
                                     <i class="fa-solid fa-chevron-left"></i> Voltar </a>
                                 <a href="#" class="btn btn-outline-success" role="button" aria-pressed="true">Realizar a Atividade Avaliativa <i class="fa-solid fa-chevron-right"></i></a>
                             </div>

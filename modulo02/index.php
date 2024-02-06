@@ -58,7 +58,7 @@
         <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
-        <span class="txt">Apresentação</i></span>
+        <span class="txt" style="font-size: 18px;">Apresentação</i></span>
         </a>
     </li>
 
@@ -67,7 +67,7 @@
         <li class="menu">
             <a data-valor="#">
             <span class="icon space"><i class="bi bi-1-circle"></i></span>
-            <span class="txt">Gestão por Processos: Contextualizaçãos</span>
+            <span class="txt" style="font-size: 18px;">Gestão por Processos: Contextualizaçãos</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
             </a>
         </li>
@@ -84,7 +84,7 @@
         <li class="menu">
             <a data-valor="#">
             <span class="icon space"><i class="bi bi-2-circle"></i></span>
-            <span class="txt">Gestão de Processos</span>
+            <span class="txt" style="font-size: 18px;">Gestão de Processos</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
             </a>
         </li>
@@ -95,12 +95,31 @@
             <i class="bi bi-journals circulo"></i>02 Inicio</a>
         <a href="./topico 02/topico 02.php#subtopico2.2">
             <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02/topico 02.php#subtopico2.3">
+            <i class="bi bi-journals circulo"></i>02.3 Como é gerenciar riscos?</a>
     </div>
+
+    <!-- Tópico -->
+    <li class="menu">
+        <a href="./topico 03/topico 03.php"">
+        <span class="icon "><i class="bi bi-3-circle"></i>
+        </span>
+        <span class="txt" style="font-size: 18px;">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
+        </a>
+    </li>
+    <!-- Tópico -->
+    <li class="menu">
+        <a href="./topico 04/topico 04.php"">
+        <span class="icon "><i class="bi bi-4-circle"></i>
+        </span>
+        <span class="txt" style="font-size: 18px;">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
+        </a>
+    </li>
 
     <li class="menu">
         <a href="./referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
-            <span class="txt">Referências</span>
+            <span class="txt" style="font-size: 18px;">Referências</span>
         </a>
     </li>
 </ul></nav><nav class="navbar shadow-sm" id="navmenu">
@@ -158,7 +177,26 @@
             <i class="bi bi-journals circulo"></i>02 Inicio</a>
         <a href="./topico 02/topico 02.php#subtopico2.2">
             <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02/topico 02.php#subtopico2.3">
+            <i class="bi bi-journals circulo"></i>02.3 Como é gerenciar riscos?</a>
     </div>
+
+    <!-- Tópico -->
+    <li class="menu">
+        <a href="./topico 03/topico 03.php"">
+        <span class="icon "><i class="bi bi-3-circle"></i>
+        </span>
+        <span class="txt">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
+        </a>
+    </li>
+    <!-- Tópico -->
+    <li class="menu">
+        <a href="./topico 04/topico 04.php"">
+        <span class="icon "><i class="bi bi-4-circle"></i>
+        </span>
+        <span class="txt">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
+        </a>
+    </li>
 
     <li class="menu">
         <a href="./referencias.php">
@@ -196,7 +234,7 @@
                         <div class="apresentacao_inicial">
                         
                             <div class="img_resp wow zoomIn" data-wow-delay="0.3s">
-                                <img src="./imgs/group_14.png" style="width: 20rem;" alt="">
+                                <img src="./imgs/group 10.png" style="width: 15rem;" alt="">
                                 <p class="apresentacao_descricao" style="margin-left: 3rem;">Fonte: <a target="_blank" href="https://www.freepik.com/free-vector/company-teamwork-idea-generation-discussion-meeting-conference-corporate-workers-characters-brainstorming-business-strategy-planning_10782675.htm#page=2&query=Gest&atilde;o%20por%20processos%20com%20foco%20em%20riscos.%20vetor&position=11&from_view=search&track=ais&uuid=777fdf93-1814-47e9-a150-f6caa8115e35">Imagem retirada do Freepik</a></p>
                             </div>
                             
@@ -205,17 +243,15 @@
                                 <p class="texto_dark apresentacao_texto wow zoomIn" data-wow-delay="0.3s">
                                 <strong> Olá, <!--<br />
 <b>Warning</b>:  Undefined variable $NomeUsuario in <b>/var/www/html/ModeloRecursos/index.php</b> on line <b>32</b><br />
- --> bem-vindo ao módulo 01 do curso Gestão por processos com foco em riscos.</strong><br>
- você irá aprender a aprimorar a eficiência organizacional através da Gestão por Processos, integrando estratégias para identificar, avaliar e gerenciar riscos em cada etapa. Ao final, estará apto a implementar práticas eficazes de gestão, alinhando processos de maneira proativa para impulsionar a melhoria contínua do negócio.
+ --> bem-vindo ao módulo 02 do curso Gestão por processos com foco em riscos.</strong><br>
+ Esta aula apresenta uma visão geral sobre o gerenciamento de riscos abordando, sob uma perspectiva ampla, as situações que podem ou não ser consideradas como riscos, bem como aqueles que interessam no âmbito das organizações. Além disso, a aula apresenta argumentos que justificam a razão pela qual os riscos devem ser gerenciados, o que significa esse gerenciamento e como ele pode ser conduzido.
                                 </p>
                                 </div>
                             </div>
 
                            
                             <p class="wow fadeIn" data-wow-delay="0.3s">
-                            As organizações, sejam elas públicas ou privadas, buscam continuamente otimizar recursos e alcançar resultados, sem comprometer a qualidade do produto ou serviço que está ofertando a seus clientes.<br><br>
-
-                            Nesse contexto, identificar e gerenciar processos torna-se algo fundamental para o alcance dos objetivos supracitados, visto que por meio de um modelo de gestão que busca o alcance dos resultados focado em atender às necessidades dos clientes, as organizações têm conseguido eficiência e eficácia.<br><br>
+                            Na sequência, aborda-se uma metodologia de gerenciamento de riscos e, finalmente, apresenta-se o gerenciamento de riscos sob a ótica do órgão central de controle interno do Poder Executivo do Estado do Ceará, no bojo do Programa de Fortalecimento do Controle Interno.<br><br>
                             </p>
 
                             <!-- Subtopico -->
@@ -223,29 +259,9 @@
                             <!-- Lista  -->
                             <ul class="list">
                                 <li class="wow fadeInLeft" data-wow-delay="0.3s">
-                                    <i class="fa fa-dot-circle text-success"></i> Evidenciar os principais conceitos que são utilizados na gestão de processos;
-                                </li>
-                                <li class="wow fadeInLeft" data-wow-delay="0.3s">
-                                    <i class="fa fa-dot-circle text-success"></i> Apresentar a metodologia para manter e melhorar processos;
-                                </li>
-                                <li class="wow fadeInLeft" data-wow-delay="0.3s">
-                                    <i class="fa fa-dot-circle text-success"></i> Apresentar a importância do gerenciamento de processos como ferramenta para o alcance da melhoria contínua.
+                                    <i class="fa fa-dot-circle text-success"></i> Proporcionar ao aluno conhecimentos gerais sobre o processo de gerenciamento de riscos, contemplando inicialmente uma visão sobre o que são e o que não são riscos e a indicação dos que interessam às organizações, seguida de definições sobre gerenciamento de riscos e das formas de exercê-lo, e, por último, a apresentação de uma metodologia de gerenciamento de riscos e da perspectiva da CGE sobre esse tema.
                                 </li>
                             </ul>
-                            <br>
-
-
-                            <!-- Accordion com texto sobre o que será visto no curso -->
-                            <div class="accordion destaques wow fadeInLeftBig" data-wow-delay="0.3s">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false">
-                                    <h5>O que você verá agora?<span class="fw-lighter"><br>(Clique aqui para saber mais)</span></h5>
-                                </button>
-                                <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
-                                    <div class="accordion-content">
-                                    Nesta aula, os principais conceitos e elementos pertinentes à gestão de processos são apresentados de forma bastante didática, fazendo uma relação com um exemplo cotidiano, com o qual todos são familiarizados.
-                                    </div>
-                                </div>
-                            </div>
 
                             <br><br>
 
