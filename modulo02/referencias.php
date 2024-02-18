@@ -117,7 +117,7 @@
     </li>
 
     <li class="menu">
-        <a href="./referencias.php">
+        <a href="referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
             <span class="txt" style="font-size: 18px;">Referências</span>
         </a>
@@ -199,7 +199,7 @@
     </li>
 
     <li class="menu">
-        <a href="./referencias.php">
+        <a href="referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
             <span class="txt">Referências</span>
         </a>
@@ -304,7 +304,7 @@
 
                             <!-- BOTÕES DE NAVEGAÇÃO -->
                             <div class="text-center">
-                                <a href="./topico 04/topico 04.php" class="btn btn-outline-success" role="button" aria-pressed="true">
+                                <a href="./topico 04 /topico 04.php" class="btn btn-outline-success" role="button" aria-pressed="true">
                                     <i class="fa-solid fa-chevron-left"></i> Voltar </a>
                                 <a href="#" class="btn btn-outline-success" role="button" aria-pressed="true">Realizar a Atividade Avaliativa <i class="fa-solid fa-chevron-right"></i></a>
                             </div>

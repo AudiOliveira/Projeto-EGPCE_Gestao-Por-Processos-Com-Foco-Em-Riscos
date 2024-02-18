@@ -101,7 +101,7 @@
 
     <!-- Tópico -->
     <li class="menu">
-        <a href="../topico 03/topico 03.php"">
+        <a href="../topico 03/topico 03.php" class="ativo">
         <span class="icon "><i class="bi bi-3-circle"></i>
         </span>
         <span class="txt" style="font-size: 18px;">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
@@ -183,7 +183,7 @@
 
     <!-- Tópico -->
     <li class="menu">
-        <a href="../topico 03/topico 03.php"">
+        <a href="../topico 03/topico 03.php" class="ativo">
         <span class="icon "><i class="bi bi-3-circle"></i>
         </span>
         <span class="txt">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>

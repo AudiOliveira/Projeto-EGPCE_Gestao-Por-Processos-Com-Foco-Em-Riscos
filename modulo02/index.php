@@ -55,7 +55,7 @@
     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="./index.php">
+        <a href="index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt" style="font-size: 18px;">Apresentação</i></span>
@@ -137,7 +137,7 @@
                     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="./index.php">
+        <a href="index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt">Apresentação</i></span>

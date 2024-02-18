@@ -65,7 +65,7 @@
     <!-- Tópicos com subtópicos -->
     <button class="dropdown-btn">
         <li class="menu">
-            <a data-valor="#">
+            <a data-valor="#" class="ativo">
             <span class="icon space"><i class="bi bi-1-circle"></i></span>
             <span class="txt" style="font-size: 18px;">Riscos: O que são e os que nos interessam</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
@@ -147,7 +147,7 @@
     <!-- Tópicos com subtópicos -->
     <button class="dropdown-btn">
         <li class="menu">
-            <a data-valor="#">
+            <a data-valor="#" class="ativo">
             <span class="icon space"><i class="bi bi-1-circle"></i></span>
             <span class="txt">Riscos: O que são e os que nos interessam</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>

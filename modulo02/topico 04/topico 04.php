@@ -58,7 +58,7 @@
         <a href="../index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
-        <span class="txt" style="font-size: 18px;">Apresentação</i></span>
+        <span class="txt" style="font-size: 17px;">Apresentação</i></span>
         </a>
     </li>
 
@@ -67,7 +67,7 @@
         <li class="menu">
             <a data-valor="#">
             <span class="icon space"><i class="bi bi-1-circle"></i></span>
-            <span class="txt" style="font-size: 18px;">Riscos: O que são e os que nos interessam</span>
+            <span class="txt" style="font-size: 17px;">Riscos: O que são e os que nos interessam</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
             </a>
         </li>
@@ -84,7 +84,7 @@
         <li class="menu">
             <a data-valor="#">
             <span class="icon space"><i class="bi bi-2-circle"></i></span>
-            <span class="txt" style="font-size: 18px;">Gerenciamento de Riscos</span>
+            <span class="txt" style="font-size: 17px;">Gerenciamento de Riscos</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
             </a>
         </li>
@@ -104,22 +104,22 @@
         <a href="../topico 03/topico 03.php"">
         <span class="icon "><i class="bi bi-3-circle"></i>
         </span>
-        <span class="txt" style="font-size: 18px;">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
+        <span class="txt" style="font-size: 17px;">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
         </a>
     </li>
     <!-- Tópico -->
     <li class="menu">
-        <a href="../topico 04/topico 04.php"">
+        <a href="../topico 04/topico 04.php" class="ativo">
         <span class="icon "><i class="bi bi-4-circle"></i>
         </span>
-        <span class="txt" style="font-size: 18px;">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
+        <span class="txt" style="font-size: 17px;">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
         </a>
     </li>
 
     <li class="menu">
         <a href="../referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
-            <span class="txt" style="font-size: 18px;">Referências</span>
+            <span class="txt" style="font-size: 17px;">Referências</span>
         </a>
     </li>
 </ul></nav><nav class="navbar shadow-sm" id="navmenu">
@@ -191,7 +191,7 @@
     </li>
     <!-- Tópico -->
     <li class="menu">
-        <a href="../topico 04/topico 04.php"">
+        <a href="../topico 04/topico 04.php" class="ativo">
         <span class="icon "><i class="bi bi-4-circle"></i>
         </span>
         <span class="txt">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>

@@ -82,7 +82,7 @@
 
     <button class="dropdown-btn">
         <li class="menu">
-            <a data-valor="#">
+            <a data-valor="#" class="ativo">
             <span class="icon space"><i class="bi bi-2-circle"></i></span>
             <span class="txt" style="font-size: 18px;">Gerenciamento de Riscos</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
@@ -164,7 +164,7 @@
 
     <button class="dropdown-btn">
         <li class="menu">
-            <a data-valor="#">
+            <a data-valor="#" class="ativo">
             <span class="icon space"><i class="bi bi-2-circle"></i></span>
             <span class="txt">Gerenciamento de Riscos</span>
             <i class="bi bi-caret-down-fill barra-sub"></i>
