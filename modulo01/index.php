@@ -74,10 +74,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="./topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Inicio</a>
-        <a href="./topico 01/topico 01.php#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 principais Conceitos Associados à Gestão de Processos</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Inicio</a>
+        <a href="./topico 01.php#subtopico1.2">
+            <i class="bi bi-journals circulo"></i>01.2 - principais Conceitos Associados à Gestão de Processos</a>
     </div>
 
     <button class="dropdown-btn">
@@ -91,10 +91,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="./topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Inicio</a>
-        <a href="./topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Inicio</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - Gerenciamento para melhorar Processos</a>
     </div>
 
     <li class="menu">
@@ -137,10 +137,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="./topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Inicio</a>
-        <a href="./topico 01/topico 01.php#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 principais Conceitos Associados à Gestão de Processos</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Inicio</a>
+        <a href="./topico 01.php#subtopico1.2">
+            <i class="bi bi-journals circulo"></i>01.2 - principais Conceitos Associados à Gestão de Processos</a>
     </div>
 
     <button class="dropdown-btn">
@@ -154,10 +154,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="./topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Inicio</a>
-        <a href="./topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Inicio</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - Gerenciamento para melhorar Processos</a>
     </div>
 
     <li class="menu">
@@ -251,7 +251,7 @@
 
                             <!-- BOTÕES DE NAVEGAÇÃO -->
                             <div class="text-center">
-                                <a href="./topico 01/topico 01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
+                                <a href="./topico 01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
                             </div>
 
                             <!-- BARRA DE PROGRESSO -->

@@ -55,7 +55,7 @@
     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="../index.php">
+        <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt" style="font-size: 90%;">Apresentação</i></span>
@@ -74,10 +74,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Inicio</a>
-        <a href="../topico 01/topico 01.php#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 principais Conceitos Associados à Gestão de Processos</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Inicio</a>
+        <a href="./topico 01.php#subtopico1.2">
+            <i class="bi bi-journals circulo"></i>01.2 - principais Conceitos Associados à Gestão de Processos</a>
     </div>
 
     <button class="dropdown-btn">
@@ -91,14 +91,14 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Inicio</a>
-        <a href="../topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Inicio</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - Gerenciamento para melhorar Processos</a>
     </div>
 
     <li class="menu">
-        <a href="../referencias.php">
+        <a href="./referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
             <span class="txt" style="font-size: 90%;">Referências</span>
         </a>
@@ -118,7 +118,7 @@
                     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="../index.php">
+        <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt">Apresentação</i></span>
@@ -137,10 +137,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Inicio</a>
-        <a href="../topico 01/topico 01.php#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 principais Conceitos Associados à Gestão de Processos</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Inicio</a>
+        <a href="./topico 01.php#subtopico1.2">
+            <i class="bi bi-journals circulo"></i>01.2 - principais Conceitos Associados à Gestão de Processos</a>
     </div>
 
     <button class="dropdown-btn">
@@ -154,14 +154,14 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Inicio</a>
-        <a href="../topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Inicio</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - Gerenciamento para melhorar Processos</a>
     </div>
 
     <li class="menu">
-        <a href="../referencias.php">
+        <a href="./referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
             <span class="txt">Referências</span>
         </a>
@@ -517,9 +517,9 @@ Por fim, é realizado o detalhamento das atividades em tarefas, de forma a expli
 
                             <!-- BOTÕES DE NAVEGAÇÃO -->
                             <div class="text-center">
-                                <a href="../topico 01/topico 01.php" class="btn btn-outline-success" role="button" aria-pressed="true">
+                                <a href="./topico 01.php" class="btn btn-outline-success" role="button" aria-pressed="true">
                                 <i class="fa-solid fa-chevron-left"></i> Voltar </a>
-                                <a href="../referencias.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
+                                <a href="./referencias.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
                             </div>
 
                             <!-- BARRA DE PROGRESSO -->

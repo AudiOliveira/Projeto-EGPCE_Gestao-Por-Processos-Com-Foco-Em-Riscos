@@ -55,7 +55,7 @@
     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="../index.php">
+        <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt" style="font-size: 90%;">Apresentação</i></span>
@@ -74,10 +74,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Inicio</a>
-        <a href="../topico 01/topico 01.php#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 principais Conceitos Associados à Gestão de Processos</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Inicio</a>
+        <a href="./topico 01.php#subtopico1.2">
+            <i class="bi bi-journals circulo"></i>01.2 - principais Conceitos Associados à Gestão de Processos</a>
     </div>
 
     <button class="dropdown-btn">
@@ -91,14 +91,14 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Inicio</a>
-        <a href="../topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Inicio</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - Gerenciamento para melhorar Processos</a>
     </div>
 
     <li class="menu">
-        <a href="../referencias.php">
+        <a href="./referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
             <span class="txt" style="font-size: 90%;">Referências</span>
         </a>
@@ -118,7 +118,7 @@
                     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="../index.php">
+        <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt">Apresentação</i></span>
@@ -137,10 +137,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Inicio</a>
-        <a href="../topico 01/topico 01.php#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 principais Conceitos Associados à Gestão de Processos</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Inicio</a>
+        <a href="./topico 01.php#subtopico1.2">
+            <i class="bi bi-journals circulo"></i>01.2 - principais Conceitos Associados à Gestão de Processos</a>
     </div>
 
     <button class="dropdown-btn">
@@ -154,14 +154,14 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Inicio</a>
-        <a href="../topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Inicio</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - Gerenciamento para melhorar Processos</a>
     </div>
 
     <li class="menu">
-        <a href="../referencias.php">
+        <a href="./referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
             <span class="txt">Referências</span>
         </a>
@@ -238,7 +238,7 @@
                             <!-- IMAGEM COM CAIXAS -->
                             <div class="apresentacao_inicial">
                                 <div class="img_resp wow zoomIn" data-wow-delay="0.3s">
-                                    <img src="../imgs/group_15.png" style="width: 25rem;" alt="">
+                                    <img src="./imgs/group_15.png" style="width: 25rem;" alt="">
                                     <p class="apresentacao_descricao">Fonte: <a target="_blank" href="https://www.freepik.com/free-vector/sales-plan-business-abstract-concept-vector-illustration-marketing-plan-presentation-business-strategy-profit-forecast-commercial-goal-sales-management-target-group-abstract-metaphor_12083673.htm">Imagem retirada do Freepik</a></p>
                                 </div>
                                 <div>
@@ -264,7 +264,7 @@
                                 Ilustração do conceito de processo</p>
                                     <div class="zoom">
                                         <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem1">
-                                            <img src="../imgs/Figura01.png" alt="Figura01" id="img-1">
+                                            <img src="./imgs/Figura01.png" alt="Figura01" id="img-1">
                                         </a>
                                     </div>
                             </div>
@@ -273,7 +273,7 @@
                             <div class="modal fade text-center" id="Imagem1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                 <div class="modal-content w-75">
-                                    <img class="img-fluid" src="../imgs/Figura01.png" alt="Figura01">
+                                    <img class="img-fluid" src="./imgs/Figura01.png" alt="Figura01">
                                 </div>
                                 <div class="modal-footer w-75 bg-light justify-content-center">
                                     <p class="text-secondary"><strong>Figura 1:</strong>
@@ -414,9 +414,9 @@
 
                             <!-- BOTÕES DE NAVEGAÇÃO -->
                             <div class="text-center">
-                                <a href="../index.php" class="btn btn-outline-success" role="button" aria-pressed="true">
+                                <a href="./index.php" class="btn btn-outline-success" role="button" aria-pressed="true">
                                 <i class="fa-solid fa-chevron-left"></i> Voltar </a>
-                                <a href="../topico 02/topico 02.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
+                                <a href="./topico 02.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
                             </div>
 
                             <!-- BARRA DE PROGRESSO -->

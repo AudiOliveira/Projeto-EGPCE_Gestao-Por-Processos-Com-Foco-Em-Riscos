@@ -55,7 +55,7 @@
     <!-- Aqui ficam os itens e links do menu -->
 <ul>
 <li class="menu">
-        <a href="../index.php">
+        <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt" style="font-size: 18px;">Apresentação</i></span>
@@ -74,10 +74,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Riscos: O que são e os que nos interessam</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Riscos: O que são e os que nos interessam</a>
         <a href="#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 Quais os riscos que nos interessam?</a>
+            <i class="bi bi-journals circulo"></i>01.2 - Quais os riscos que nos interessam?</a>
     </div>
 
     <button class="dropdown-btn">
@@ -91,17 +91,17 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Gerenciamento de Riscos</a>
-        <a href="../topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 O que é gerenciamento de riscos?</a>
-        <a href="../topico 02/topico 02.php#subtopico2.3">
-            <i class="bi bi-journals circulo"></i>02.3 Como é gerenciar riscos?</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Gerenciamento de Riscos</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - O que é gerenciamento de riscos?</a>
+        <a href="./topico 02.php#subtopico2.3">
+            <i class="bi bi-journals circulo"></i>02.3 - Como é gerenciar riscos?</a>
     </div>
 
     <!-- Tópico -->
     <li class="menu">
-        <a href="../topico 03/topico 03.php"">
+        <a href="./topico 03.php"">
         <span class="icon "><i class="bi bi-3-circle"></i>
         </span>
         <span class="txt" style="font-size: 18px;">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
@@ -109,7 +109,7 @@
     </li>
     <!-- Tópico -->
     <li class="menu">
-        <a href="../topico 04/topico 04.php"">
+        <a href="./topico 04.php"">
         <span class="icon "><i class="bi bi-4-circle"></i>
         </span>
         <span class="txt" style="font-size: 18px;">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
@@ -117,7 +117,7 @@
     </li>
 
     <li class="menu">
-        <a href="../referencias.php">
+        <a href="./referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
             <span class="txt" style="font-size: 18px;">Referências</span>
         </a>
@@ -137,7 +137,7 @@
                     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="../index.php">
+        <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt">Apresentação</i></span>
@@ -156,10 +156,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Riscos: O que são e os que nos interessam</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Riscos: O que são e os que nos interessam</a>
         <a href="#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 Quais os riscos que nos interessam?</a>
+            <i class="bi bi-journals circulo"></i>01.2 - Quais os riscos que nos interessam?</a>
     </div>
 
     <button class="dropdown-btn">
@@ -173,17 +173,17 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="../topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Gerenciamento de Riscos</a>
-        <a href="../topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 O que é gerenciamento de riscos?</a>
-        <a href="../topico 02/topico 02.php#subtopico2.3">
-            <i class="bi bi-journals circulo"></i>02.3 Como é gerenciar riscos?</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Gerenciamento de Riscos</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - O que é gerenciamento de riscos?</a>
+        <a href="./topico 02.php#subtopico2.3">
+            <i class="bi bi-journals circulo"></i>02.3 - Como é gerenciar riscos?</a>
     </div>
 
     <!-- Tópico -->
     <li class="menu">
-        <a href="../topico 03/topico 03.php"">
+        <a href="./topico 03.php"">
         <span class="icon "><i class="bi bi-3-circle"></i>
         </span>
         <span class="txt">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
@@ -191,7 +191,7 @@
     </li>
     <!-- Tópico -->
     <li class="menu">
-        <a href="../topico 04/topico 04.php"">
+        <a href="./topico 04.php"">
         <span class="icon "><i class="bi bi-4-circle"></i>
         </span>
         <span class="txt">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
@@ -199,7 +199,7 @@
     </li>
 
     <li class="menu">
-        <a href="../referencias.php">
+        <a href="./referencias.php">
             <span class="icon"><i class="bi bi-book-half"></i></span>
             <span class="txt">Referências</span>
         </a>
@@ -363,7 +363,7 @@
                                 Relacionamento das metas, objetivos e resultados com os recursos</p>
                                     <div class="zoom">
                                         <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem1">
-                                            <img src="../imgs/Figura01.png" style="max-width: 50rem; width: 30rem;" alt="Figura 1" id="img-1">
+                                            <img src="./imgs/Figura01.png" style="max-width: 50rem; width: 30rem;" alt="Figura 1" id="img-1">
                                         </a>
                                     </div>
                             </div>
@@ -376,7 +376,7 @@
                             <div class="modal fade text-center" id="Imagem1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                 <div class="modal-content w-75">
-                                    <img class="img-fluid" src="../imgs/Figura01.png" alt="Figura01">
+                                    <img class="img-fluid" src="./imgs/Figura01.png" alt="Figura01">
                                 </div>
                                 <div class="modal-footer w-75 bg-light justify-content-center">
                                     <p class="text-secondary"><strong>Figura 1:</strong>
@@ -393,7 +393,7 @@
                                 Universo de Riscos</p>
                                     <div class="zoom">
                                         <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem2">
-                                            <img src="../imgs/Figura02.png" alt="Figura02" id="img-2">
+                                            <img src="./imgs/Figura02.png" alt="Figura02" id="img-2">
                                         </a>
                                     </div>
                             </div>
@@ -402,7 +402,7 @@
                             <div class="modal fade text-center" id="Imagem2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                 <div class="modal-content w-75">
-                                    <img class="img-fluid" src="../imgs/Figura02.png" alt="Figura02">
+                                    <img class="img-fluid" src="./imgs/Figura02.png" alt="Figura02">
                                 </div>
                                 <div class="modal-footer w-75 bg-light justify-content-center">
                                     <p class="text-secondary"><strong>Figura 2:</strong>
@@ -774,9 +774,9 @@
 
                             <!-- BOTÕES DE NAVEGAÇÃO -->
                             <div class="text-center">
-                                <a href="../index.php" class="btn btn-outline-success" role="button" aria-pressed="true">
+                                <a href="./index.php" class="btn btn-outline-success" role="button" aria-pressed="true">
                                 <i class="fa-solid fa-chevron-left"></i> Voltar </a>
-                                <a href="../topico 02/topico 02.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
+                                <a href="./topico 02.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
                             </div>
 
                             <!-- BARRA DE PROGRESSO -->

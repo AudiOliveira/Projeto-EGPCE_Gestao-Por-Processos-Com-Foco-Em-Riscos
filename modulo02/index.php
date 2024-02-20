@@ -55,7 +55,7 @@
     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="index.php">
+        <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt" style="font-size: 18px;">Apresentação</i></span>
@@ -74,10 +74,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="./topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Inicio</a>
-        <a href="./topico 01/topico 01.php#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 principais Conceitos Associados à Gestão de Processos</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Inicio</a>
+        <a href="./topico 01.php#subtopico1.2">
+            <i class="bi bi-journals circulo"></i>01.2 - principais Conceitos Associados à Gestão de Processos</a>
     </div>
 
     <button class="dropdown-btn">
@@ -91,17 +91,17 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="./topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Inicio</a>
-        <a href="./topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
-        <a href="./topico 02/topico 02.php#subtopico2.3">
-            <i class="bi bi-journals circulo"></i>02.3 Como é gerenciar riscos?</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Inicio</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02.php#subtopico2.3">
+            <i class="bi bi-journals circulo"></i>02.3 - Como é gerenciar riscos?</a>
     </div>
 
     <!-- Tópico -->
     <li class="menu">
-        <a href="./topico 03/topico 03.php"">
+        <a href="./topico 03.php"">
         <span class="icon "><i class="bi bi-3-circle"></i>
         </span>
         <span class="txt" style="font-size: 18px;">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
@@ -109,7 +109,7 @@
     </li>
     <!-- Tópico -->
     <li class="menu">
-        <a href="./topico 04/topico 04.php"">
+        <a href="./topico 04.php"">
         <span class="icon "><i class="bi bi-4-circle"></i>
         </span>
         <span class="txt" style="font-size: 18px;">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
@@ -137,7 +137,7 @@
                     <!-- Aqui ficam os itens e links do menu -->
 <ul>
     <li class="menu">
-        <a href="index.php">
+        <a href="./index.php">
         <span class="icon "><i class="bi bi-person-workspace"></i>
         </span>
         <span class="txt">Apresentação</i></span>
@@ -156,10 +156,10 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="./topico 01/topico 01.php">
-            <i class="bi bi-journals circulo"></i>01 Inicio</a>
-        <a href="./topico 01/topico 01.php#subtopico1.2">
-            <i class="bi bi-journals circulo"></i>01.2 principais Conceitos Associados à Gestão de Processos</a>
+        <a href="./topico 01.php">
+            <i class="bi bi-journals circulo"></i>01 - Inicio</a>
+        <a href="./topico 01.php#subtopico1.2">
+            <i class="bi bi-journals circulo"></i>01.2 - principais Conceitos Associados à Gestão de Processos</a>
     </div>
 
     <button class="dropdown-btn">
@@ -173,17 +173,17 @@
     </button>
     <!-- Sub tópicos -->
     <div class="dropdown-container">
-        <a href="./topico 02/topico 02.php">
-            <i class="bi bi-journals circulo"></i>02 Inicio</a>
-        <a href="./topico 02/topico 02.php#subtopico2.2">
-            <i class="bi bi-journals circulo"></i>02.2 Gerenciamento para melhorar Processos</a>
-        <a href="./topico 02/topico 02.php#subtopico2.3">
-            <i class="bi bi-journals circulo"></i>02.3 Como é gerenciar riscos?</a>
+        <a href="./topico 02.php">
+            <i class="bi bi-journals circulo"></i>02 - Inicio</a>
+        <a href="./topico 02.php#subtopico2.2">
+            <i class="bi bi-journals circulo"></i>02.2 - Gerenciamento para melhorar Processos</a>
+        <a href="./topico 02.php#subtopico2.3">
+            <i class="bi bi-journals circulo"></i>02.3 - Como é gerenciar riscos?</a>
     </div>
 
     <!-- Tópico -->
     <li class="menu">
-        <a href="./topico 03/topico 03.php"">
+        <a href="./topico 03.php"">
         <span class="icon "><i class="bi bi-3-circle"></i>
         </span>
         <span class="txt">O modelo de estrutura integrada de gestão de riscos COSO II</i></span>
@@ -191,7 +191,7 @@
     </li>
     <!-- Tópico -->
     <li class="menu">
-        <a href="./topico 04/topico 04.php"">
+        <a href="./topico 04.php"">
         <span class="icon "><i class="bi bi-4-circle"></i>
         </span>
         <span class="txt">Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)</i></span>
@@ -233,8 +233,8 @@
                          <h2 class="Titulo wow fadeIn">Apresentação</h2><br>
                         <div class="apresentacao_inicial">
                         
-                            <div class="img_resp wow zoomIn" data-wow-delay="0.3s">
-                                <img src="./imgs/group 10.png" style="width: 15rem;" alt="">
+                        <div class="img_resp wow zoomIn" data-wow-delay="0.3s">
+                                <img src="./imgs/group_14.png" style="width: 20rem;" alt="">
                                 <p class="apresentacao_descricao" style="margin-left: 3rem;">Fonte: <a target="_blank" href="https://www.freepik.com/free-vector/company-teamwork-idea-generation-discussion-meeting-conference-corporate-workers-characters-brainstorming-business-strategy-planning_10782675.htm#page=2&query=Gest&atilde;o%20por%20processos%20com%20foco%20em%20riscos.%20vetor&position=11&from_view=search&track=ais&uuid=777fdf93-1814-47e9-a150-f6caa8115e35">Imagem retirada do Freepik</a></p>
                             </div>
                             
@@ -267,7 +267,7 @@
 
                             <!-- BOTÕES DE NAVEGAÇÃO -->
                             <div class="text-center">
-                                <a href="./topico 01/topico 01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
+                                <a href="./topico 01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
                             </div>
 
                             <!-- BARRA DE PROGRESSO -->
